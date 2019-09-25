@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/jaredzimmerman/Space%20Game%20-%20web/_apis/build/status/jzimmerman13.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/jaredzimmerman/Space%20Game%20-%20web/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
